@@ -1,6 +1,10 @@
 # Volcaniarm Workspace
 
-ROS 2 workspace for the Volcaniarm, a 2-DOF delta type robotic arm for precision weeding in agriculture, as part of my Thesis.
+ROS 2 workspace for the Volcaniarm, a 2-DOF delta type robotic arm for precision weeding in agriculture.
+
+> Based on the original work of [Tamir Levin](https://github.com/LevinTamir)
+> ([LevinTamir/volcaniarm_ws](https://github.com/LevinTamir/volcaniarm_ws)),
+> developed as part of his MSc thesis. This repository continues that work.
 
 <p align="center">
   <img src="docs/images/volcaniarm_urdf_img.jpeg" alt="Volcaniarm URDF" width="400">
